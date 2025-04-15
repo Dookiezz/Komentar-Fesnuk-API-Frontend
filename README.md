@@ -1,4 +1,4 @@
-# daisyui-quotesapp
+# Komentar Fesnuk API
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -10,7 +10,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
+## Project Setup if you using bun
 
 ```sh
 bun install
