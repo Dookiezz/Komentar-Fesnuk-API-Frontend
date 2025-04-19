@@ -1,12 +1,22 @@
 <script setup>
 import Navbar from './components/Navbar.vue'
-import Heroes from './components/Heroes.vue';
+import Heroes from './components/Heroes.vue'
+import About from './components/About.vue'
+import Footer from './components/Footer.vue'
+
+import { onMounted } from 'vue'
+
+onMounted(() => {
+  document.title = "DaisyUI";
+})
 </script>
 
 <template>
   <div class="flex flex-col min-h-screen w-full">
     <Navbar />
     <Heroes />
+    <About />
+    <Footer />
   </div>
 </template>
 
