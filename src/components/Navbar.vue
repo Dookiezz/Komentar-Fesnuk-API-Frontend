@@ -33,8 +33,6 @@
       <ul class="menu menu-horizontal px-1">
         <li><a href="">Home</a></li>
         <li><a href="">About</a></li>
-        <li><a href="">Feature</a></li>
-        <li><a href="">Join Now</a></li>
       </ul>
     </div>
     <div class="navbar-end"></div>
