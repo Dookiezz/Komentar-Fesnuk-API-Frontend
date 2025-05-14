@@ -7,7 +7,7 @@ import Footer from './components/Footer.vue'
 import { onMounted } from 'vue'
 
 onMounted(() => {
-  document.title = "DaisyUI";
+  document.title = "Absurd Comment API";
 })
 </script>
 
